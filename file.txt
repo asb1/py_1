@@ -1,0 +1,21 @@
+
+    Nama:Indra
+    Alamat:Jl. Panjang
+    Umur:12
+    ---------------------
+    
+    Nama:Asep
+    Alamat:Jl. Pejuang
+    Umur:13
+    ---------------------
+    
+    Nama:Ujang
+    Alamat:Jl. Abdul Muis
+    Umur:10
+    ---------------------
+    
+    Nama:Firman
+    Alamat:Jl. Sudirman
+    Umur:25
+    ---------------------
+    
